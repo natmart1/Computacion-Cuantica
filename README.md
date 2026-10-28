@@ -15,7 +15,7 @@ Artículo original:
 
 | Archivo | Contenido |
 |---|---|
-| [`articulo_bloqueo_de_fotones_reescrito.pdf`](tarea1_bloqueo_de_fotones/articulo_bloqueo_de_fotones_reescrito.pdf) | Artículo reescrito con los pasos intermedios. |
+| [`articulo_bloqueo_de_fotones_reescrito.pdf`](https://raw.githubusercontent.com/natmart1/Computacion-Cuantica/main/tarea1_bloqueo_de_fotones/articulo_bloqueo_de_fotones_reescrito.pdf) | Artículo reescrito con los pasos intermedios. |
 | [`figuras_bloqueo_de_fotones.ipynb`](tarea1_bloqueo_de_fotones/figuras_bloqueo_de_fotones.ipynb) | Reproducción de las figuras con QuTiP: función de correlación de segundo orden *g*<sup>(2)</sup>(0) con la cavidad o el átomo bombeados. |
 
 ## Tarea 2. Cálculos de caminatas aleatorias clásicas y cuánticas
